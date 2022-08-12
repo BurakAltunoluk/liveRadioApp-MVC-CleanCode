@@ -1,4 +1,5 @@
-# liveRadioApp-CollectionViewExample
+# liveRadioApp-CollectionView
+
 
 LiveRadio - CollectionView - MVC - Clean Code - Backround Playback mode - Swift - XCode
 
